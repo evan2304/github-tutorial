@@ -7,8 +7,7 @@ _by Eva Nangalwe Noertoft_
 If you are new cooding or Git and Github, you may be wondering what the difference is.   
 
 **Git**  
-Git should be thought of as a private working space. In Git you save _"snapshots"_ of code, 
-while working on your _local remote_. This means that you can make changes in the repositories
+Git is tool that keeps track of the edits and the history of a file. I reccomend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories
 (_files_). 
 
 **Github**  
@@ -18,9 +17,9 @@ So to sum it up; the difference between Github and Git is that Git is a workspac
 
 
 ---
-## Initial Setup
-
-
+## Initial Setup  
+If you are getting started with Git and Github there are some set up steps that you need to go through. You will need a Github account and a Cloud 9 account. 
+1) Start by [**clicking on this link**](https://c9.io/) and following the steps to set up a Cloud 9 account. It is a good idea to sign up using your school or work email. 
 
 ---
 ## Repository Setup
