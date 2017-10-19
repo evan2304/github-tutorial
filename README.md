@@ -12,7 +12,7 @@ while working on your _local remote_. This means that you can make changes in th
 (_files_). 
 
 **Github**  
-Github is a "_cloud_" that can be used when working on a group project. It's a service where you can collaborate on code. It also makes it a lot easier to see the changes that other people have made and see the history of the code. You don't have to be collaborating on a project to use Github, you can also just use it to _fork_ and _clone_ other people's code, which we will get into later. 
+Github is a "_cloud_" that can be used when working on a group project. It's a service where you can collaborate on code. It also makes it a lot easier to see the changes that other people have made and see the history of the code. You don't have to be collaborating on a project to use Github, you can also just use it to _fork_ and _clone_ other people's code, which we will get into later, or just have a backup of your own local repositories. 
 
 
 ---
