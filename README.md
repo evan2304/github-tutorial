@@ -18,8 +18,11 @@ So to sum it up; the difference between Github and Git is that Git is a toolkit 
 
 ---
 ## Initial Setup  
-If you are getting started with Git and Github there are some set up steps that you need to go through. You will need a Github account and a Cloud 9 account. 
+If you are getting started with Git and Github there are some set up steps that you need to go through. You will need a Github account and a Cloud 9 account (you don't neccesarrily need to use Cloud 9, but I reccomend it). 
 1) Start by [**clicking on this link**](https://c9.io/) and following the steps to set up a Cloud 9 account. It is a good idea to sign up using your school or work email. 
+
+2) The next step is to set up a Github account. [Click here](https://github.com/) to get directed to the Github home page. Here you should click on the "Sign Up" button and follow the steps to set up an account. **Make sure to verify your email**
+
 
 ---
 ## Repository Setup
