@@ -33,7 +33,8 @@ If you are getting started with Git and Github there are some set up steps that 
 
 ---
 ## Repository Setup
-
+Once you've established the accounts and the SSH key, you can now create a repository!
+1) The first step in this process is to make a repository (file) in either your Cloud 9 Or Github. The repository that lives on Cloud 9 is your _local repository_ whereas the 
 
 
 ---
