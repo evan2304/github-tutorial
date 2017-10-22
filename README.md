@@ -7,7 +7,7 @@ _by Eva Nangalwe Noertoft_
 If you are new coding or Git and Github, you may be wondering what the difference is.   
 
 #### Git 
-Git is tool that keeps track of the edits and the history of a file. I reccomend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories
+Git is tool that keeps track of the edits and the history of a file. I reccomend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories.
 (_files_). 
 
 #### Github
@@ -31,12 +31,13 @@ If you are getting started with Git and Github there are some set up steps that 
     
 Now you are done with the Initial Setup of Github and Cloud 9!
 
-
-
 ---
 ## Repository Setup
 Once you've established the accounts and the SSH key, you can now create a repository!
-1) The first step in this process is to make a repository (file) in either your Cloud 9 Or Github. The repository that lives on Cloud 9 is your _local repository_ whereas the 
+1) The first step in this process is to make a repository (file) in both your Cloud 9 or Github. (The repository that lives on Cloud 9 is your _local repository_ whereas the one on Github is your _remote repository_.) 
+    * First you want to make sure you are in the workspace.Your bash (the tab on the lower part of your screen) should look something like `yourusername:~/workspace`. If not then type `cd ~/workspace` in the bash. _There must always be a space between the `cd`and the name of the directory._ The command stands for Change Directory. (Remember that you must be in the parent directory to change into a directory. Use `cd ..`to navigate out the directory to the "grandparent" directory.)
+    * Now type `mkdir first-repo`.  
+    `mkdir`stands for Make Directory, and `first-repo`is the name of the repository. You can name it whatever you would like, just remember to be consistent. 
 
 
 ---
