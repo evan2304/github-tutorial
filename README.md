@@ -27,7 +27,9 @@ If you are getting started with Git and Github there are some set up steps that 
     * First step in doing this is to click on settings (click on profile icon)
     * You should see a category called  **SSH and GPG keys**, click on it. 
     * The next step is to create a new SSH key. Click on the **New SSH** key and name it _Cloud 9_. 
-    * 
+    * The step is to fill out the **Key** box. To do this you need to go to your Cloud 9 account. Click on the gear icon and a  **SSH Keys** tab should show up. Click on that. Of the two keys that you see, copy the second one, **Connect to your private git repository**. Paste it in the Key box in Github and proceed by clicking **Add SSH Key**.   
+    
+Now you are done with the Initial Setupn of Github and Cloud 9!
 
 
 
