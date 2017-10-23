@@ -40,7 +40,7 @@ You must have a _workspace_ in Cloud 9 to create a repository. Go ahead and clic
     * Now type **`mkdir first-repo`**.  
     `mkdir`stands for Make Directory, and `first-repo`is the name of the repository. You can name it whatever you would like, just remember to be consistent. This command creates the repository. 
     * **`cd first-repo`**. This command "enters" you into the repository you just created.
-    * `git init`. The repo that you just created isn't using Git, so this command initialises Git in the repository that you are currently in. 
+    * **`git init`**. The repo that you just created isn't using Git, so this command initialises Git in the repository that you are currently in. 
 2. **Now you can create a file in the repo that you just created.** 
     * **`touch README.md`**. The touch command creates a new new file and `README.md`is the name of the file. (In theory you can name the file whatever you would like but remember to use the `.md` extension.)
     * **`c9 README.md`**.   
