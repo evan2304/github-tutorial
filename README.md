@@ -63,8 +63,9 @@ Voilà! Now you have created your first repo, aswell as set up the connection be
 
 ---
 ## Workflow & Commands
-Now that you've set up your repo, how about some commands that you will need to use when you start making changes?  
-`git status`is a vital command 
+Now that you've set up your repo, how about some commands that you will need to use when you start making changes? 
+  
+`git status`is a vital command that helps you see what changes have been made since last commit. If the file is red, the files has been edited since last commit. If the file is green, that means everything is up to date and no changes have been made since last commit. 
 
 
 ---
