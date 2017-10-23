@@ -83,5 +83,6 @@ If you wish to undo edits you have made to a file before adding it the staging a
 To _unstage_ a file, you should use the **`git reset HEAD <file>`** command. Once again, replace `<file>` with the actual filename.
 
 #### Undo `git commit`
-
+To undo a commit, type **`git reset --soft HEAD~1`**. To check this, do `git status`and you'll see the file is green. 
 #### Undo `git push`
+To undo a push command first type **`git log`**. Next to the commits, you should see some numbers and letters: _keys_. Use the `git revert`command along with the SHA key (mentioned earlier) of the latest commit and the one you want to go back to. The command should look like **`git revert <latest commit SHA> <desired commit SHA>`**
