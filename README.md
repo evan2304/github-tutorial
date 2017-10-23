@@ -78,9 +78,9 @@ Now that you've set up your repo, how about some commands that you will need to 
 If you have made some changes that you would like to undo, here's how to do it:  
 
 #### Undo edit 
-
+If you wish to undo edits you have made to a file before adding it the staging area, use the command **`git checkout <file>`** Replace the `<file>`with the actual file name. 
 #### Undo `git add`
-To _unstage_ a file, you should use the `git revert` command.  
+To _unstage_ a file, you should use the **`git reset HEAD <file>`** command. Once again, replace `<file>` with the actual filename.
 
 #### Undo `git commit`
 
