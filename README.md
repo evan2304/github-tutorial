@@ -33,7 +33,8 @@ Now you are done with the Initial Setup of Github and Cloud 9!
 
 ---
 ## Repository Setup
-Once you've established the accounts and the SSH key, you can now create a repository!
+Once you've established the accounts and the SSH key, you can now create a repository!  
+You must have a _workspace_ in Cloud 9 to create a repository. Go ahead and click the **Create a new workspace**. Fill out the name of the workspace, make it public and make sure HTML5 is selected as the template. Then, **Create Workspace**. 
 1. **The first step in this process is to make a repository (file) in both your Cloud 9 or Github. (The repository that lives on Cloud 9 is your _local repository_ whereas the one on Github is your _remote repository_.)**
     * Go to Cloud 9. First you want to make sure you are in the workspace.Your bash (the tab on the lower part of your screen) should look something like `yourusername:~/workspace`. If not then type `cd ~/workspace` in the bash. _There must always be a space between the `cd`and the name of the directory._ The command stands for Change Directory. (Remember that you must be in the parent directory to change into a directory. Use `cd ..`to navigate out the directory to the "grandparent" directory.)
     * Now type **`mkdir first-repo`**.  
