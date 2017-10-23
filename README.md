@@ -67,9 +67,13 @@ Now that you've set up your repo, how about some commands that you will need to 
   
 **`git status`** is a vital command that helps you see what changes have been made since last commit. If the file is red, the file has been edited since last commit. If everything is up to date then the message should be `Your branch is up-to-date with 'origin/master'`  
   
-**`git add`** as mentioned earlier, it adds files to the staging area. Adding files to the staging area is selecting the files and the latest changes to them. 
+**`git add`** as mentioned earlier, it adds files to the staging area. Adding files to the staging area is selecting the files and the latest changes to them and making them "ready" to be implement.  
 
-**`git commit`** this command 
+**`git commit`** this command implements the changes that have been added to the staging area, to the repo. Use **`-m ""`** with this command, to add a message/ comment (between the quotation marks) to the commit. REMEMBER: the message must be in present tense. 
+
+**`git push`** once the connection between the remote and local remote has been created, this command sends the latest commit to the _remote repository_, so that it is up-to-date.  
+* So for this to work the `git remote add origin URL` has to be in play as well as the `git push -u origin master`. The first command, ensures that a connection is set up between the local and remote repository. The `origin`   is the default name for a Github repository and the `URL` is the location of the remote repository. The second command directs the `git push` commands so that they by default go to the `origin master` which is the branch where the remote repo is located. 
+
 
 
 ---
