@@ -65,7 +65,11 @@ Voilà! Now you have created your first repo, aswell as set up the connection be
 ## Workflow & Commands
 Now that you've set up your repo, how about some commands that you will need to use when you start making changes? 
   
-`git status`is a vital command that helps you see what changes have been made since last commit. If the file is red, the files has been edited since last commit. If the file is green, that means everything is up to date and no changes have been made since last commit. 
+**`git status`** is a vital command that helps you see what changes have been made since last commit. If the file is red, the file has been edited since last commit. If everything is up to date then the message should be `Your branch is up-to-date with 'origin/master'`  
+  
+**`git add`** as mentioned earlier, it adds files to the staging area. Adding files to the staging area is selecting the files and the latest changes to them. 
+
+**`git commit`** this command 
 
 
 ---
