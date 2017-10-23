@@ -59,11 +59,12 @@ You must have a _workspace_ in Cloud 9 to create a repository. Go ahead and clic
     * Copy and paste the first line into your bash and press enter
     * Repeat these steps with the second line of code.   
 
-Voilà! Now you have created your first repo, aswell set up the connection between your local and remote repository. 
+Voilà! Now you have created your first repo, aswell as set up the connection between your local and remote repository. 
 
 ---
 ## Workflow & Commands
-
+Now that you've set up your repo, how about some commands that you will need to use when you start making changes?  
+`git status`is a vital command 
 
 
 ---
