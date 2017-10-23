@@ -51,8 +51,15 @@ You must have a _workspace_ in Cloud 9 to create a repository. Go ahead and clic
     The `git commit` command "permanently" implements the changes to the repository. If we use the analogy of the `git add`being a frame then _commiting_ a change is hanging the frame up on the wall. The `-m ""`let's you write a message (in present tense), so that in the future it is navigate which commits did what. 
     
 3. **The next step is creating a _remote_ repository in Github, so that you can _push_ changes to it.**  
-    *
+    * Go to Github and click on the `+` icon in the top right corner. Then click **New Repository**
+    * Give your repository the _exact_ same as the one you created in Cloud9. In this case: **first-repo**. Then, **Create repository**
 
+4. **The final step in this process is setting up the connection between the _local_ and _remote_ repository.**
+    * Once you have created the remote repo, a page should come up with three options. (Make sure **SSH** is selected, right under the title). We are interested in the second one _"...or push an existing repository from the command line"._
+    * Copy and paste the first line into your bash and press enter
+    * Repeat these steps with the second line of code.   
+
+Voilà! Now you have created your first repo, aswell set up the connection between your local and remote repository. 
 
 ---
 ## Workflow & Commands
