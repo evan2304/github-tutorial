@@ -4,10 +4,10 @@ _by Eva Nangalwe Noertoft_
 
 ---
 ## Git vs. GitHub
-If you are new coding or Git and Github, you may be wondering what the difference is.   
+If you are new to coding or Git and Github, you may be wondering what the difference is.   
 
 #### Git 
-Git is tool that keeps track of the edits and the history of a file. I reccomend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories.
+Git is a tool that keeps track of the edits and the history of a file. I recommend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories.
 (_files_). 
 
 #### Github
