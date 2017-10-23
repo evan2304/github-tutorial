@@ -36,12 +36,15 @@ Now you are done with the Initial Setup of Github and Cloud 9!
 Once you've established the accounts and the SSH key, you can now create a repository!
 1) The first step in this process is to make a repository (file) in both your Cloud 9 or Github. (The repository that lives on Cloud 9 is your _local repository_ whereas the one on Github is your _remote repository_.) 
     * Go to Cloud 9. First you want to make sure you are in the workspace.Your bash (the tab on the lower part of your screen) should look something like `yourusername:~/workspace`. If not then type `cd ~/workspace` in the bash. _There must always be a space between the `cd`and the name of the directory._ The command stands for Change Directory. (Remember that you must be in the parent directory to change into a directory. Use `cd ..`to navigate out the directory to the "grandparent" directory.)
-    * Now type `mkdir first-repo`.  
+    * Now type **`mkdir first-repo`**.  
     `mkdir`stands for Make Directory, and `first-repo`is the name of the repository. You can name it whatever you would like, just remember to be consistent. This command creates the repository. 
-    * `cd first-repo`. This command "enters" you into the repository you just created.
+    * **`cd first-repo`**. This command "enters" you into the repository you just created.
     * `git init`. The repo that you just created isn't using Git, so this command initialises Git in the repository that you are currently in. 
 2) Now you can create a file in the repo that you just created. 
-    * `touch README.md`. The touch command  
+    * **`touch README.md`**. The touch command creates a new new file and `README.md`is the name of the file. (In theory you can name the file whatever you would like but remember to use the `.md` extension.)
+    * **`c9 README.md`**.   
+    `c9` opens a file so you can make changes to the content. `README.md` indicates which file should be opened. Now make some changes to the file; type a sentence or a word. You want to make sure Cloud 9 is autosaving your work, so click on the **Cloud9** tab, then **Preferences** and scroll to **Experimental**. Here you should see **Auto-save**, so make sure it is turned on. 
+    * 
 
 
 ---
