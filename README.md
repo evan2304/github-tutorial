@@ -4,10 +4,10 @@ _by Eva Nangalwe Noertoft_
 
 ---
 ## Git vs. GitHub
-If you are new coding or Git and Github, you may be wondering what the difference is.   
+If you are new to coding or Git and Github, you may be wondering what the difference is.   
 
 #### Git 
-Git is tool that keeps track of the edits and the history of a file. I reccomend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories.
+Git is a tool that keeps track of the edits and the history of a file. I recommend using Git in Cloud 9. Using Git in Cloud 9 can be thought of as using a toolkit in a private workspace. Using Git you save _"snapshots"_ of code, while working on your _local remote_. This means that you can make changes in the repositories.
 (_files_). 
 
 #### Github
@@ -18,7 +18,7 @@ So to sum it up; the difference between Github and Git is that Git is a toolkit 
 
 ---
 ## Initial Setup  
-If you are getting started with Git and Github there are some set up steps that you need to go through. You will need a Github account and a Cloud 9 account (you don't neccesarrily need to use Cloud 9, but I reccomend it). 
+If you are getting started with Git and Github there are some set up steps that you need to go through. You will need a Github account and a Cloud 9 account (you don't necessarrily need to use Cloud 9, but I recommend it). 
 1. Start by [**clicking on this link**](https://c9.io/) and following the steps to set up a Cloud 9 account. It is a good idea to sign up using your school or work email. 
 
 2. The next step is to set up a Github account. [**Click here**](https://github.com/) to get redirected to the Github home page. Here you should click on the "Sign Up" button and follow the steps to set up an account. **Make sure to verify your email**
@@ -36,7 +36,7 @@ Now you are done with the Initial Setup of Github and Cloud 9!
 Once you've established the accounts and the SSH key, you can now create a repository!  
 You must have a _workspace_ in Cloud 9 to create a repository. Go ahead and click the **Create a new workspace**. Fill out the name of the workspace, make it public and make sure HTML5 is selected as the template. Then, **Create Workspace**. 
 1. **The first step in this process is to make a repository (file) in both your Cloud 9 or Github. (The repository that lives on Cloud 9 is your _local repository_ whereas the one on Github is your _remote repository_.)**
-    * Go to Cloud 9. First you want to make sure you are in the workspace.Your bash (the tab on the lower part of your screen) should look something like `yourusername:~/workspace`. If not then type `cd ~/workspace` in the bash. _There must always be a space between the `cd`and the name of the directory._ The command stands for Change Directory. (Remember that you must be in the parent directory to change into a directory. Use `cd ..`to navigate out the directory to the "grandparent" directory.)
+    * Go to Cloud 9. First you want to make sure you are in the workspace. Your bash (the tab on the lower part of your screen) should look something like `yourusername:~/workspace`. If not then type `cd ~/workspace` in the bash. _There must always be a space between the `cd`and the name of the directory._ The command stands for Change Directory. (Remember that you must be in the parent directory to change into a directory. Use `cd ..`to navigate out the directory to the "grandparent" directory.)
     * Now type **`mkdir first-repo`**.  
     `mkdir`stands for Make Directory, and `first-repo`is the name of the repository. You can name it whatever you would like, just remember to be consistent. This command creates the repository. 
     * **`cd first-repo`**. This command "enters" you into the repository you just created.
